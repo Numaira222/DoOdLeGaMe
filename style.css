@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to bottom left, #66ff66 0%, #ffff00 100%);
+    background-size: cover;
+}
+#score{
+    font-size: 40px;
+    float: left;
+}
+#timer{
+    font-size: 40px;
+    float:right;
+   
+}
+#sketch_to_be_drawn{
+    color: blue;
+    font-size: 30px;
+}
+#your_sketch{
+    font-size: 30px;
+}
+#confidence{
+    font-size: 30px;
+}
+h1{
+    font-size:50px !important;
+}
+#show_sketch{
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+}
